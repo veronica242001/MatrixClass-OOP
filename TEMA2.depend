@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1587198286 source:c:\users\veronica\documents\cursurifmi\oop\tema2\matrice.cpp
+	"Matrice.h"
+
+1587199546 c:\users\veronica\documents\cursurifmi\oop\tema2\matrice.h
+	"Complex.h"
+
+1587162332 c:\users\veronica\documents\cursurifmi\oop\tema2\complex.h
+	<iostream>
+
+1587199364 source:c:\users\veronica\documents\cursurifmi\oop\tema2\matrice_oarecare.cpp
+	"Matrice_oarecare.h"
+	<iostream>
+
+1587199192 c:\users\veronica\documents\cursurifmi\oop\tema2\matrice_oarecare.h
+	"Matrice.h"
+	<iostream>
+
+1587199048 source:c:\users\veronica\documents\cursurifmi\oop\tema2\matrice_patratica.cpp
+	"Matrice_patratica.h"
+	<iostream>
+
+1587199123 c:\users\veronica\documents\cursurifmi\oop\tema2\matrice_patratica.h
+	"Matrice.h"
+	<iostream>
+
+1587162334 source:c:\users\veronica\documents\cursurifmi\oop\tema2\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1587198286 source:c:\users\veronica\documents\cursurifmi\oop\tema2\main.cpp
+	<iostream>
+	"Complex.h"
+	"Matrice.h"
+	"Matrice_oarecare.h"
+	"Matrice_patratica.h"
+

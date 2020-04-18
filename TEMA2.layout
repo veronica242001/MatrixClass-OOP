@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Complex.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1004" topLine="0" />
+	</File>
+	<File name="Complex.h" open="1" top="0" tabpos="5">
+		<Cursor position="384" topLine="0" />
+	</File>
+	<File name="Matrice.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="Matrice.h" open="1" top="0" tabpos="9">
+		<Cursor position="446" topLine="0" />
+	</File>
+	<File name="Matrice_oarecare.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2647" topLine="0" />
+	</File>
+	<File name="Matrice_oarecare.h" open="1" top="0" tabpos="7">
+		<Cursor position="422" topLine="2" />
+	</File>
+	<File name="Matrice_patratica.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="836" topLine="25" />
+	</File>
+	<File name="Matrice_patratica.h" open="1" top="0" tabpos="3">
+		<Cursor position="752" topLine="3" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
